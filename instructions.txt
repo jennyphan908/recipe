@@ -1,0 +1,1 @@
+`code instructions.txt`: This command opens or creates a file named instructions.txt in a text editor. The code command here assumes you have Visual Studio Code installed and configured in your PATH. This command is correct for creating and editing a new file named instructions.txt.
